@@ -1,0 +1,10 @@
+https://acap-calabarzon.github.io/
+https://acap-calabarzon.github.io/weather-services/
+https://acap-calabarzon.github.io/cropping-calendar-v2/
+https://acap-calabarzon.github.io/agroclimatic-services/
+https://acap-calabarzon.github.io/bulletins/
+https://acap-calabarzon.github.io/bulletins/weather/
+https://acap-calabarzon.github.io/bulletins/seasonal-outlook/
+https://acap-calabarzon.github.io/bulletins/special-weather-forecast/
+https://acap-calabarzon.github.io/admin/login/
+https://acap-calabarzon.github.io/superadmin/login/
